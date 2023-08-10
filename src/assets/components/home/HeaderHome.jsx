@@ -3,9 +3,9 @@ import LeftIcon from "../../../assets/components/icons/leftIcon";
 import RightIcon from "../../../assets/components/icons/rightIcon";
 import ArticleHome from "./ArticleHome";
 
-import imgHero1 from "./assets/images/desktop-image-hero-1.jpg"
-import imgHero2 from "./assets/images/desktop-image-hero-2.jpg"
-import imgHero3 from "./assets/images/desktop-image-hero-3.jpg"
+import imgHero1 from "../../../assets/images/desktop-image-hero-1.jpg"
+import imgHero2 from "../../../assets/images/desktop-image-hero-2.jpg"
+import imgHero3 from "../../../assets/images/desktop-image-hero-3.jpg"
 
 const ARRAY_HERO = [
     {

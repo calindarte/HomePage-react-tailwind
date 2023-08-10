@@ -5,7 +5,7 @@ const ArticleHome = ({hero}) => {
     <>
       <img
         src={hero.img_hero}
-        alt=""
+        alt="imageHero"
         className=" col-start-1 col-end-4 row-start-1 row-end-3 lg:col-start-1 lg:col-end-5 lg:row-start-1 lg:row-end-3 w-full h-full"
       />
       <div className="col-start-1 col-end-4 row-start-3 row-end-4 lg:col-start-5 lg:col-end-8 lg:row-start-1 lg:row-end-2 mx-10 lg:mx-28 my-16 lg:my-20 flex flex-col gap-y-6 ">
