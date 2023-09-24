@@ -5,7 +5,7 @@ const FooterHome = () => {
         <a href="https://www.frontendmentor.io?ref=challenge" rel="noreferrer" target="_blank" className="font-medium">
           Frontend Mentor
         </a>
-        . Coded by <a href="#">Carlos Lindarte</a>.
+        . Coded by <a href="#">Carlos Lindarte Santos</a>.
       
     </footer>
   );
