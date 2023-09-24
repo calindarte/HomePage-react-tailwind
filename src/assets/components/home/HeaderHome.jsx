@@ -1,6 +1,6 @@
 import { useState } from "react";
-import LeftIcon from "../../../assets/components/icons/leftIcon";
-import RightIcon from "../../../assets/components/icons/rightIcon";
+import LeftIcon from "../../../assets/components/icons/LeftIcon";
+import RightIcon from "../../../assets/components/icons/RightIcon";
 import ArticleHome from "./ArticleHome";
 
 import imgHero1 from "../../../assets/images/desktop-image-hero-1.jpg"
